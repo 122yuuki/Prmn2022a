@@ -1,4 +1,4 @@
-package lecuture02;
+package lecture02;
 
 public class GasStation {
 
