@@ -6,7 +6,7 @@ public class Exercise3_1 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
-        System.out.println("任意の文字列を入力してください：");
+        System.out.print("任意の文字列を入力してください：");
         String m = input.next();
         System.out.print("”" + m + "” と入力されました");
 
