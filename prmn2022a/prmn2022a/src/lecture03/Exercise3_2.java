@@ -20,8 +20,10 @@ public class Exercise3_2 {
 
         }
 
-        for(int i=0;i<moziretu.size();i++){
-            System.out.println("[" + i + "] " + moziretu.get(i));
+        int j=0;
+        for(String mozi : moziretu){
+            System.out.println("[" + j + "] " + moziretu.get(j));
+            j++;
         }
 
 
