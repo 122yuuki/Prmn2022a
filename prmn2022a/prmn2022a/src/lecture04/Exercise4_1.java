@@ -27,14 +27,5 @@ public class Exercise4_1 {
             System.out.println();
 
         }
-
-<<<<<<< HEAD
-=======
-
-
-
-
-
->>>>>>> refs/remotes/origin/main
     }
 }
