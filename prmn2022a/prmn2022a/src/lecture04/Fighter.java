@@ -31,5 +31,5 @@ public class Fighter {
         public String getName(){
             return this.name;
         }
-    }
+}
 
