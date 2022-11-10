@@ -28,5 +28,13 @@ public class Exercise4_1 {
 
         }
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+>>>>>>> refs/remotes/origin/main
     }
 }
